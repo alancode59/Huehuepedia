@@ -1,0 +1,38 @@
+    
+#galeria .col-lg-4{
+    margin: 0 !important;
+    padding: 25px;
+}
+
+#galeria img {
+  width: 102%;  
+  height: 250px;
+}
+
+
+#galeria img:hover{
+    border: 5px solid #f7f7f7;
+
+}
+
+
+
+body{
+    background-color:#E5C5B8;
+}
+
+
+h1{
+    font-family: Monserrat medium;
+}
+
+p{
+    font-family: Monserrat medium;  
+}
+
+/*body{
+    background-image: url(./ImgPr/corona.png);
+    background-repeat: no-repeat;
+    background-position:right;
+    background-size: 130%;
+    } /*
